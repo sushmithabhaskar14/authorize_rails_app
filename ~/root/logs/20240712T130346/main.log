@@ -1,0 +1,32 @@
+2024-07-12 13:03:46.960 [info] update#setState idle
+2024-07-12 13:03:49.265 [error] vscode-file: Refused to load resource /snap/code/163/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/snap/code/163/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+2024-07-12 13:04:16.964 [info] update#setState checking for updates
+2024-07-12 13:04:16.969 [info] update#setState idle
+2024-07-12 14:04:16.989 [info] update#setState checking for updates
+2024-07-12 14:04:17.003 [info] update#setState idle
+2024-07-12 15:06:21.518 [info] update#setState checking for updates
+2024-07-12 15:06:21.544 [info] update#setState idle
+2024-07-12 15:12:56.374 [warning] [perf] profiling STARTED 411eac9e-9f64-4afa-a2dd-11fddea369ad
+2024-07-12 15:13:01.477 [warning] [perf] profiling DONE 411eac9e-9f64-4afa-a2dd-11fddea369ad
+2024-07-12 15:13:02.842 [warning] [perf] profiling STARTED 411eac9e-9f64-4afa-a2dd-11fddea369ad
+2024-07-12 15:13:07.931 [warning] [perf] profiling DONE 411eac9e-9f64-4afa-a2dd-11fddea369ad
+2024-07-12 15:13:08.767 [warning] [perf] profiling STARTED 411eac9e-9f64-4afa-a2dd-11fddea369ad
+2024-07-12 15:13:13.831 [warning] [perf] profiling DONE 411eac9e-9f64-4afa-a2dd-11fddea369ad
+2024-07-12 16:27:51.123 [info] Extension host with pid 37404 exited with code: 0, signal: unknown.
+2024-07-12 16:28:16.430 [info] Extension host with pid 37835 exited with code: 0, signal: unknown.
+2024-07-12 16:28:37.144 [info] Extension host with pid 38122 exited with code: 0, signal: unknown.
+2024-07-12 16:30:02.989 [info] Extension host with pid 38522 exited with code: 0, signal: unknown.
+2024-07-12 16:45:22.383 [info] Extension host with pid 43268 exited with code: 0, signal: unknown.
+2024-07-12 16:46:17.370 [info] Extension host with pid 43690 exited with code: 0, signal: unknown.
+2024-07-12 17:09:25.073 [info] update#setState checking for updates
+2024-07-12 17:09:25.094 [info] update#setState idle
+2024-07-12 18:29:24.265 [info] update#setState checking for updates
+2024-07-12 18:29:24.308 [info] update#setState idle
+2024-07-12 19:29:24.307 [info] update#setState checking for updates
+2024-07-12 19:29:24.332 [info] update#setState idle
+2024-07-12 20:29:24.353 [info] update#setState checking for updates
+2024-07-12 20:29:24.393 [info] update#setState idle
+2024-07-12 21:29:24.403 [info] update#setState checking for updates
+2024-07-12 21:29:24.435 [info] update#setState idle
+2024-07-12 22:32:02.982 [info] update#setState checking for updates
+2024-07-12 22:32:03.003 [info] update#setState idle

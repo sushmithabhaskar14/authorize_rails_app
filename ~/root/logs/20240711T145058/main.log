@@ -1,0 +1,52 @@
+2024-07-11 14:50:58.998 [info] update#setState idle
+2024-07-11 14:51:19.185 [info] Extension host with pid 26861 exited with code: 0, signal: unknown.
+2024-07-11 14:51:29.009 [info] update#setState checking for updates
+2024-07-11 14:51:29.011 [info] update#setState idle
+2024-07-11 15:51:44.220 [info] update#setState checking for updates
+2024-07-11 15:51:44.236 [info] update#setState idle
+2024-07-11 16:29:11.798 [warning] [perf] profiling STARTED b0edeaac-5162-43b5-b0a9-b33fa1060832
+2024-07-11 16:29:16.868 [warning] [perf] profiling DONE b0edeaac-5162-43b5-b0a9-b33fa1060832
+2024-07-11 16:29:17.498 [warning] [perf] profiling STARTED b0edeaac-5162-43b5-b0a9-b33fa1060832
+2024-07-11 16:29:22.623 [warning] [perf] profiling DONE b0edeaac-5162-43b5-b0a9-b33fa1060832
+2024-07-11 16:29:23.363 [warning] [perf] profiling STARTED b0edeaac-5162-43b5-b0a9-b33fa1060832
+2024-07-11 16:29:28.437 [warning] [perf] profiling DONE b0edeaac-5162-43b5-b0a9-b33fa1060832
+2024-07-11 16:52:18.943 [warning] [perf] profiling STARTED cbb0a0c1-1b20-452e-8634-7b9bee5bbe7a
+2024-07-11 16:52:24.020 [warning] [perf] profiling DONE cbb0a0c1-1b20-452e-8634-7b9bee5bbe7a
+2024-07-11 16:52:24.898 [warning] [perf] profiling STARTED cbb0a0c1-1b20-452e-8634-7b9bee5bbe7a
+2024-07-11 16:52:29.936 [warning] [perf] profiling DONE cbb0a0c1-1b20-452e-8634-7b9bee5bbe7a
+2024-07-11 16:52:30.356 [warning] [perf] profiling STARTED cbb0a0c1-1b20-452e-8634-7b9bee5bbe7a
+2024-07-11 16:52:35.394 [warning] [perf] profiling DONE cbb0a0c1-1b20-452e-8634-7b9bee5bbe7a
+2024-07-11 17:07:42.140 [info] update#setState checking for updates
+2024-07-11 17:07:42.178 [info] update#setState idle
+2024-07-11 17:11:34.477 [warning] [perf] profiling STARTED c20bfe8b-bfde-44a6-8d17-59223880982b
+2024-07-11 17:11:39.530 [warning] [perf] profiling DONE c20bfe8b-bfde-44a6-8d17-59223880982b
+2024-07-11 17:11:39.820 [warning] [perf] profiling STARTED c20bfe8b-bfde-44a6-8d17-59223880982b
+2024-07-11 17:11:44.846 [warning] [perf] profiling DONE c20bfe8b-bfde-44a6-8d17-59223880982b
+2024-07-11 17:11:45.091 [warning] [perf] profiling STARTED c20bfe8b-bfde-44a6-8d17-59223880982b
+2024-07-11 17:11:50.125 [warning] [perf] profiling DONE c20bfe8b-bfde-44a6-8d17-59223880982b
+2024-07-11 18:08:20.416 [info] update#setState checking for updates
+2024-07-11 18:08:20.437 [info] update#setState idle
+2024-07-11 19:02:40.779 [warning] [perf] profiling STARTED a4c7cef9-c968-4121-8b4c-85fcc0281cb4
+2024-07-11 19:02:46.050 [warning] [perf] profiling DONE a4c7cef9-c968-4121-8b4c-85fcc0281cb4
+2024-07-11 19:02:46.775 [warning] [perf] profiling STARTED a4c7cef9-c968-4121-8b4c-85fcc0281cb4
+2024-07-11 19:02:52.067 [warning] [perf] profiling DONE a4c7cef9-c968-4121-8b4c-85fcc0281cb4
+2024-07-11 19:02:52.755 [warning] [perf] profiling STARTED a4c7cef9-c968-4121-8b4c-85fcc0281cb4
+2024-07-11 19:02:57.793 [warning] [perf] profiling DONE a4c7cef9-c968-4121-8b4c-85fcc0281cb4
+2024-07-11 19:08:20.434 [info] update#setState checking for updates
+2024-07-11 19:08:20.444 [info] update#setState idle
+2024-07-11 19:24:39.296 [warning] [perf] profiling STARTED a0514979-8dfd-4ed0-80f6-4d242860d775
+2024-07-11 19:24:44.362 [warning] [perf] profiling DONE a0514979-8dfd-4ed0-80f6-4d242860d775
+2024-07-11 19:24:44.814 [warning] [perf] profiling STARTED a0514979-8dfd-4ed0-80f6-4d242860d775
+2024-07-11 19:24:49.898 [warning] [perf] profiling DONE a0514979-8dfd-4ed0-80f6-4d242860d775
+2024-07-11 19:24:50.377 [warning] [perf] profiling STARTED a0514979-8dfd-4ed0-80f6-4d242860d775
+2024-07-11 19:24:55.433 [warning] [perf] profiling DONE a0514979-8dfd-4ed0-80f6-4d242860d775
+2024-07-11 20:08:20.453 [info] update#setState checking for updates
+2024-07-11 20:08:20.481 [info] update#setState idle
+2024-07-11 21:23:44.286 [warning] [perf] profiling STARTED 79f76e8a-81ad-4b8e-8088-21ea2cae242b
+2024-07-11 21:23:49.330 [warning] [perf] profiling DONE 79f76e8a-81ad-4b8e-8088-21ea2cae242b
+2024-07-11 21:23:50.604 [warning] [perf] profiling STARTED 79f76e8a-81ad-4b8e-8088-21ea2cae242b
+2024-07-11 21:23:55.660 [warning] [perf] profiling DONE 79f76e8a-81ad-4b8e-8088-21ea2cae242b
+2024-07-11 21:23:56.100 [warning] [perf] profiling STARTED 79f76e8a-81ad-4b8e-8088-21ea2cae242b
+2024-07-11 21:24:01.136 [warning] [perf] profiling DONE 79f76e8a-81ad-4b8e-8088-21ea2cae242b
+2024-07-11 22:15:22.507 [info] update#setState checking for updates
+2024-07-11 22:15:22.585 [info] update#setState idle
